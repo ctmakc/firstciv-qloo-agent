@@ -1,0 +1,1478 @@
+[
+ {
+  "id": "yoruba",
+  "name": "Yoruba",
+  "epithet": "People of the Talking Drum",
+  "region": "West Africa · Nigeria · Benin",
+  "lon": 4.5,
+  "lat": 7.5,
+  "language": "Yorùbá",
+  "vitality": "Living, widely spoken",
+  "practice": "Dùndún talking drums & Egúngún masquerade",
+  "expressions": [
+   "song",
+   "dance",
+   "craft",
+   "story",
+   "language"
+  ],
+  "color": "#C8A65D",
+  "blurb": "People of the talking drum, whose dùndún speaks the tonal language word for word and whose Ife casters shaped some of Africa's finest bronzes.",
+  "intro": "The Yoruba are one of West Africa's largest peoples, settled for more than a thousand years in the forests and savannahs of what is now south-western Nigeria, Benin and Togo. Theirs is a civilisation of cities — Ilé-Ifẹ̀, the spiritual cradle, Ọ̀yọ́, Ìbàdàn, Abẹ́òkúta — each ruled by an ọba beneath a beaded crown. Yorùbá is a tonal language, and on the dùndún talking drum that tonality becomes speech: a master drummer can make the drum recite a proverb or call a person's praise-name across a market square. The world knows them too for the towering Egúngún masquerade that brings the ancestors among the living, for àdìre indigo-dyed cloth, and for the Ife bronze and terracotta heads whose serene naturalism astonished the museums of Europe.",
+  "respect": "Engage with Yoruba-led cultural organisations, artists and master crafts­people, learn from them directly, credit makers fairly, and never share sacred or restricted material.",
+  "firstciv_url": "https://firstciv.com/c/yoruba",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:yoruba",
+    "urn:tag:genre:music:juju",
+    "urn:tag:genre:music:apala"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:west_african_restaurant",
+    "urn:tag:cuisine:qloo:nigerian"
+   ],
+   "food_label": "West African / Nigerian",
+   "anchors": [
+    {
+     "id": "EC81DC39-CD3D-4BD1-9BDC-43A52486553A",
+     "name": "Sir Shina Peters",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f96fdaeaae66460a8a6bb4707466f65d.jpg",
+     "about": "Sir Shina Peters is a Nigerian musician famous for pioneering the Afro-Juju genre, a fusion of Afrobeat and Juju music. He gained prominence in the late 1980s and 1990s with his energetic rhythms and danceable beats, ble"
+    },
+    {
+     "id": "A4FDA6D5-1E8B-41B1-9DC5-B1408F79904C",
+     "name": "Ebenezer Obey",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d711417144b94a7282765d0208807eb9.jpg",
+     "about": "Ebenezer Obey is a Nigerian Juju musician and bandleader famous for his innovative fusion of traditional Yoruba music with Afrobeat and highlife influences. He is recognized for his smooth vocal style and intricate guita"
+    },
+    {
+     "id": "87B443DC-703C-47D7-8AF6-A2BC82700831",
+     "name": "Reminisce",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/6917a3d002bf4868c8c6136b68ccdd5f.jpg",
+     "about": "Reminisce, also known as Alaga Ibile, is a Nigerian rapper and songwriter renowned for his unique Yoruba rap style. He blends traditional Nigerian sounds with contemporary hip hop, creating music that resonates with a wi"
+    },
+    {
+     "id": "1BEBACEE-7FE8-47ED-8561-B39875B7116B",
+     "name": "Yoruba Andabo",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e9985eba8a644644974bc91b8dc6d4e6.jpg",
+     "about": "Yoruba Andabo is a Cuban rumba group specializing in traditional Afro-Cuban music, particularly rumba and guaguancó styles. They are known for their rich percussion arrangements and vocal harmonies that celebrate Cuban c"
+    },
+    {
+     "id": "BF82F3AB-8A2D-46DD-9243-E68D65F295DE",
+     "name": "PALO!",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/8438a4244b354337bf09bc943122c0e8.jpg",
+     "about": "Palo! is a Latin jazz and salsa band that blends Afro-Cuban rhythms with funk, soul, and jazz fusion elements. They are recognized for their dynamic live performances and rich, rhythmic sound that honors traditional Lati"
+    },
+    {
+     "id": "E783FA71-35EE-4E90-9DC6-FE2ACC7EC506",
+     "name": "King Sunny Adé and His African Beats",
+     "image": null,
+     "about": null
+    },
+    {
+     "id": "A4328AB4-4856-4F42-9D5B-31BF2DDFC752",
+     "name": "I.K. Dairo",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e40b774c33c741709056654ef9e0e407.jpg",
+     "about": "I.K. Dairo was a Nigerian musician and bandleader who played a pivotal role in popularizing Juju music, a genre blending traditional Yoruba percussion with modern instruments. He led the band I.K. Dairo and His Blue Spot"
+    },
+    {
+     "id": "1DF46C01-5E73-43D6-BDF8-A99C93603955",
+     "name": "Dele Ojo & His Star Brothers Band",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/bee58cdbb8651ff072e146c1fe1dbdab.jpg",
+     "about": "Dele Ojo & His Star Brothers Band is a Nigerian Juju music group led by Dele Ojo, a prominent figure in the Juju genre. The band is known for blending traditional Nigerian rhythms with Afrobeat and Highlife influences, c"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "hawaiian",
+  "name": "Native Hawaiian (Kānaka Maoli)",
+  "epithet": "Voyagers of the Open Pacific",
+  "region": "Hawaiʻi · Pacific",
+  "lon": -155.5,
+  "lat": 19.9,
+  "language": "ʻŌlelo Hawaiʻi",
+  "vitality": "Revitalising",
+  "practice": "Hula, oli & deep-sea wayfinding",
+  "expressions": [
+   "dance",
+   "song",
+   "language",
+   "craft",
+   "story"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "Voyagers of the open Pacific whose hula dances the chant, and whose wayfinders read the stars without instruments.",
+  "intro": "The Kānaka Maoli are the Native people of Hawaiʻi, descendants of Polynesian navigators who crossed thousands of kilometres of open ocean by double-hulled canoe more than a thousand years ago. Their knowledge is voiced in oli (chant) and danced in hula, which does not merely accompany the words but embodies them — every hand a wave, a rain, an ancestor. Wayfinders still cross the Pacific guided only by stars, swell and bird, as the canoe Hōkūleʻa has proved to the world. After a century in which ʻŌlelo Hawaiʻi was nearly silenced, language and arts are in determined revival.",
+  "respect": "",
+  "firstciv_url": "https://firstciv.com/c/hawaiian",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:hawaiian",
+    "urn:tag:genre:music:slack_key_guitar"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:hawaiian_restaurant"
+   ],
+   "food_label": "Hawaiian",
+   "anchors": [
+    {
+     "id": "B20E322B-A5E0-4360-9A26-CD12ECE76284",
+     "name": "Dennis Pavao",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/8a7e9ec9a1de4eee9cde2c0a3676a930.jpg",
+     "about": "Dennis Pavao was a celebrated Hawaiian falsetto singer and musician, recognized for his contributions to traditional Hawaiian music and his role in preserving and popularizing Hawaiian falsetto singing. He was a member o"
+    },
+    {
+     "id": "FC78B20E-4FDE-4144-94A9-720E8CBAFB32",
+     "name": "Raiatea Helm",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0e8fb7ae10c94befa1553dc1543a3542.jpg",
+     "about": "Raiatea Helm is a renowned Hawaiian singer celebrated for her mastery of traditional Hawaiian music as well as contemporary interpretations. She has won multiple Nā Hōkū Hanohano Awards, which are the Hawaiian equivalent"
+    },
+    {
+     "id": "C9753E6C-BB62-4840-B795-FDFB71F6FE8B",
+     "name": "Imua",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/51934c134c0e4a33852c966b2590a25c.jpg",
+     "about": "Imua is a music artist recognized for a smooth blend of pop and R&B genres, often incorporating soulful and contemporary elements in their music. Their style is characterized by emotive vocals and modern production techn"
+    },
+    {
+     "id": "66B8B42D-F0D0-4EB4-80F1-ECD229002D21",
+     "name": "Country Comfort",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/70dc8af72ceccc703ba0dab6eacbc41c.jpg",
+     "about": "Country Comfort is a country rock band that emerged in the late 1960s and early 1970s, known for their blend of country, folk, and rock music. They contributed to the country rock movement with a sound that incorporated "
+    },
+    {
+     "id": "D8037174-4C13-4559-8683-60A00DAB6084",
+     "name": "Hui Ohana",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/de749bed8cdb76c985b1f7b38c898c31.jpg",
+     "about": "Hui Ohana is a Hawaiian music group formed by brothers Israel Kamakawiwoʻole, Skippy Kamakawiwoʻole, and their cousin Mervin Kekoa. They are known for blending traditional Hawaiian music with contemporary styles, includi"
+    },
+    {
+     "id": "CAD55529-51E4-4A92-A9EE-DF0490DB7924",
+     "name": "Kapena",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/75a46123fc2a448fb429ecccc8826060.jpg",
+     "about": "Kapena is a Hawaiian music group that blends traditional Hawaiian music with contemporary island sounds. They are known for their smooth vocal harmonies, ukulele-driven melodies, and contributions to the Hawaiian music s"
+    },
+    {
+     "id": "65B282C7-434C-425B-B9BF-243176951415",
+     "name": "Opihi Pickers",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/9b5775119ad8484ca7754ebefaa742b7.jpg",
+     "about": "Opihi Pickers is a Hawaiian acoustic group known for their harmonious blend of island music, folk, and pop influences. The band features members Imua Garza, Keawe Garza, and Kahale Morales, who combine traditional Hawaii"
+    },
+    {
+     "id": "56342AED-0467-4FA0-A66B-FC7EF49CB8EB",
+     "name": "Leonard Kwan",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/c2ca464607af44d386e5b9dae4802f62.jpg",
+     "about": "Leonard Kwan is a celebrated Hawaiian musician known primarily for his mastery of slack key guitar, a traditional Hawaiian style of guitar playing. He has contributed significantly to the preservation and popularization "
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "zulu",
+  "name": "Zulu",
+  "epithet": "People of the Heavens",
+  "region": "KwaZulu-Natal · South Africa",
+  "lon": 31,
+  "lat": -28.5,
+  "language": "isiZulu",
+  "vitality": "Living, widely spoken",
+  "practice": "Isicathamiya & indlamu",
+  "expressions": [
+   "song",
+   "dance",
+   "language",
+   "craft",
+   "story"
+  ],
+  "color": "#B37A4C",
+  "blurb": "People of the heavens whose isicathamiya harmonies, indlamu stamp and beadwork carry the word.",
+  "intro": "The amaZulu — the people of the heavens — are the largest cultural nation of South Africa, heirs of the chieftaincies that Shaka forged into a kingdom in the early 1800s. Their world is carried in isiZulu, a tonal Nguni language rich in click sounds and praise; in the close a-cappella harmonies of isicathamiya; in the thundering stamp of indlamu; and in beadwork so precise that a string of coloured beads — an ucu, a 'love-letter' — can be read like a sentence.",
+  "respect": "",
+  "firstciv_url": "https://firstciv.com/c/zulu",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:zulu",
+    "urn:tag:genre:qloo:isicathamiya",
+    "urn:tag:genre:qloo:maskandi"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:south_african_restaurant"
+   ],
+   "food_label": "South African (regional)",
+   "anchors": [
+    {
+     "id": "5ECCEA20-58DB-4162-84FD-6FDD22BDEB8F",
+     "name": "Sipho Mabuse",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/3a249643cf5845778b2ae2bed73fdc87.jpg",
+     "about": "Sipho Mabuse is a renowned South African singer and musician, famous for his contributions to Afro-pop and mbaqanga music. He has been influential in blending traditional South African music styles with contemporary soun"
+    },
+    {
+     "id": "6533753A-E816-453B-B17C-7EFE4BEF3CED",
+     "name": "Solomon Linda's Original Evening Birds",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/086a68d1d7461f746dcf0e38509cebe6.jpg",
+     "about": "Solomon Linda's Original Evening Birds was a South African vocal group formed in the 1930s, led by Solomon Linda. They are best known for their 1939 hit song 'Mbube', which became a foundational piece in the development "
+    },
+    {
+     "id": "4DD7CAFC-DDA3-4434-B7AC-43346E4DA168",
+     "name": "Ladysmith Black Mambazo",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/9cd2f2b528dc4ad0b218a0974e5ddb22.jpg",
+     "about": "Ladysmith Black Mambazo is a South African male choral group that sings in the isicathamiya and mbube styles, traditional Zulu musical forms. Founded in the early 1960s by Joseph Shabalala, the group gained international"
+    },
+    {
+     "id": "0D561746-B08B-43EA-909F-D0AB2439B70F",
+     "name": "Women of Mambazo",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/88d5aedf800748f4b9678bd3c2763aa1.jpg",
+     "about": "Women of Mambazo is a South African female vocal group that performs in the isicathamiya style, a traditional Zulu a cappella genre popularized by Ladysmith Black Mambazo. They bring a unique female perspective to this m"
+    },
+    {
+     "id": "3BA47DB1-B061-42C0-A4ED-CEBF5F176FE4",
+     "name": "Dick Khoza",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/c64f4afb7f7a4d66a47b8f73ba1b5244.jpg",
+     "about": "Dick Khoza is a South African Maskandi musician renowned for his traditional Zulu guitar style and storytelling through music. He is a prominent figure in the Maskandi genre, which blends folk and traditional Zulu musica"
+    },
+    {
+     "id": "C27C2CDB-67E0-4951-A384-30D03353ADC1",
+     "name": "Umahlathini Nabo",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f0b7992aa358523f29ae33befed15bec.jpg",
+     "about": "Umahlathini Nabo is a South African music group specializing in Maskandi, a traditional Zulu folk music genre. They are known for their authentic representation of Zulu culture through their music, often featuring acoust"
+    },
+    {
+     "id": "F3D92052-D934-4AF1-9ED8-6016DF93C5CF",
+     "name": "Jozi",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/131a6862b3644e87a8f4ec6ebc346fef.jpg",
+     "about": null
+    },
+    {
+     "id": "773DB341-CCCB-4D58-A27F-3D00834E211C",
+     "name": "Tshetsha Boys",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/120d110d36344e6ea7bab07e33cc886f.jpg",
+     "about": "Tshetsha Boys is a South African music group renowned for their mbaqanga and maskandi music, blending traditional Zulu rhythms with contemporary sounds. They have contributed significantly to the South African music scen"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "mapuche",
+  "name": "Mapuche",
+  "epithet": "People of the Land",
+  "region": "Chile · Argentina",
+  "lon": -72,
+  "lat": -38.5,
+  "language": "Mapudungun",
+  "vitality": "Endangered · revitalising",
+  "practice": "Ülkantun song & ñimin weaving",
+  "expressions": [
+   "song",
+   "craft",
+   "language",
+   "story",
+   "dance"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "People of the land of southern Chile and Argentina — the kultrún drum, ñimin weaving and the silver of the trapelakucha.",
+  "intro": "The Mapuche are the people of the land — che, the people, of mapu, the land — of south-central Chile and the Andean steppe of Argentina. They never fell to the Inca and held the Spanish at the Biobío river for three centuries, keeping their freedom until the late 1800s. Their world is voiced in ülkantun song over the kultrún drum and the long trutruca horn, woven into the ñimin patterns of the loom, and worked in the silver of the trapelakucha worn at a woman's breast. They speak Mapudungun, the speech of the land, carried for most of its life in voice alone.",
+  "respect": "",
+  "firstciv_url": "https://firstciv.com/c/mapuche",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:mapuche",
+    "urn:tag:genre:qloo:chilean_folk"
+   ],
+   "music_scope": "culture + regional",
+   "food": [
+    "urn:tag:category:place:chilean_restaurant"
+   ],
+   "food_label": "Chilean (regional)",
+   "anchors": [
+    {
+     "id": "11CC2D76-D38E-48D9-9F8C-A23A43C82C4B",
+     "name": "Violeta Parra",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/818581fb8d144909b019e2e8be7d9bf9.jpg",
+     "about": "Violeta Parra (1917–1967) was a Chilean folklorist, singer-songwriter and visual artist who collected, revived and reinterpreted Chilean and Latin American folk traditions. She combined field research — gathering and arc"
+    },
+    {
+     "id": "840FD798-2923-4EAF-8B77-8DBA8475A441",
+     "name": "Mauricio Redolés",
+     "image": null,
+     "about": "Mauricio Redolés is a Chilean poet, musician, and singer-songwriter renowned for his socially and politically charged lyrics, blending Chilean folk traditions with rock and Latin American musical influences. His work oft"
+    },
+    {
+     "id": "23B347C8-7371-45C0-ACC4-6F6F796A6594",
+     "name": "Roberto Parra",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e691b15d55d34ba7b42d04b1b2f615d7.jpg",
+     "about": "Roberto Parra Sandoval was a Chilean musician, poet, and folklorist, renowned for his work in Chilean folk music, especially the cueca genre. He was a key figure in preserving and revitalizing traditional Chilean music a"
+    },
+    {
+     "id": "1B0A4B38-47FB-4926-86D9-D98D96952046",
+     "name": "Hernan Figueroa Reyes",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/5cb353e65ac74285bdfd2914135f29be.jpg",
+     "about": "Hernan Figueroa Reyes was a prominent Chilean folk musician and composer, recognized for his significant contributions to the preservation and promotion of traditional Chilean music, especially the Cueca genre. He played"
+    },
+    {
+     "id": "253DF0AA-69DF-4148-A74A-EF671502D778",
+     "name": "Los Huasos Quincheros",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/2b1571e96952212cf28ef1735b0bf128.jpg",
+     "about": "Los Huasos Quincheros is a famous Chilean folk music group formed in the 1930s, known for their performances of traditional Chilean music, especially the cueca, the national dance of Chile. They have played a significant"
+    },
+    {
+     "id": "3C6AEF14-DBA7-4639-880D-ECBB1B05EC16",
+     "name": "Pepe Jara",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/37e1372e5dde42b19c71c29a5ae267eb.jpg",
+     "about": "Pepe Jara is a Chilean folk singer renowned for his performances of traditional Chilean music, especially the Cueca, which is the national dance and music of Chile. He has contributed to preserving and popularizing Chile"
+    },
+    {
+     "id": "DF71C3E2-88E9-4778-93B0-10BBF5D669BC",
+     "name": "Los Chileneros",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/3733d3d310d64a38abef1590ffca6c71.jpg",
+     "about": "Los Chileneros is a Chilean folk music group renowned for their performances of Cueca, the national dance and music style of Chile. They are celebrated for preserving and promoting traditional Chilean folk music through "
+    },
+    {
+     "id": "46A4979E-792E-4E58-8F98-AFE00FF53EF9",
+     "name": "Pascuala Ilabaca",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/545565e2dbac4009b31309aa93efca3a.jpg",
+     "about": "Pascuala Ilabaca is a Chilean singer-songwriter and musician recognized for her unique fusion of traditional Chilean folk music with contemporary and world music influences. She often incorporates diverse instruments and"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "balinese",
+  "name": "Balinese",
+  "epithet": "People of the Island of the Gods",
+  "region": "Bali · Indonesia",
+  "lon": 115.2,
+  "lat": -8.4,
+  "language": "Basa Bali (Balinese)",
+  "vitality": "Living, under tourism pressure",
+  "practice": "Gamelan & temple dance",
+  "expressions": [
+   "dance",
+   "song",
+   "craft",
+   "story",
+   "language"
+  ],
+  "color": "#C8A65D",
+  "blurb": "People of the island of a thousand temples, whose gamelan, legong and barong turn daily life into living offering.",
+  "intro": "The Balinese are the people of Bali, a small Hindu island in a vast Muslim-majority archipelago, whose faith — Agama Hindu Dharma — fills the calendar with ritual. Life turns on the banjar, the neighbourhood council, and on a ceaseless rhythm of offering: the canang sari laid out each dawn, the temple odalan, the great processions to the sea. Art is not set apart from worship — the shimmering bronze of the gamelan, the trembling fingers and darting eyes of the legong, the carved demon-king Barong and the chattering chorus of the kecak are all addressed, first, to the gods.",
+  "respect": "",
+  "firstciv_url": "https://firstciv.com/c/balinese",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:balinese",
+    "urn:tag:genre:music:gamelan"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:indonesian_restaurant"
+   ],
+   "food_label": "Indonesian (regional)",
+   "anchors": [
+    {
+     "id": "E85B8FCB-BB53-4654-AC8E-DAF8A2CA3141",
+     "name": "David Lewiston",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/a1065d1e456f4907860c4f62a5e123e8.jpg",
+     "about": "David Lewiston was a British ethnomusicologist and field recordist renowned for his extensive recordings of traditional music from around the world, including Asia, Africa, and the Americas. His work helped preserve and "
+    },
+    {
+     "id": "12F501D0-F05C-47BB-9926-6BA2ACD44A76",
+     "name": "Gamelan Pacifica",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/10c0a446b5b9419abff47132dba79606.jpg",
+     "about": "Gamelan Pacifica is an American ensemble dedicated to performing traditional and contemporary gamelan music, primarily from Indonesia. Founded in the Pacific Northwest, the group explores the rich textures and rhythms of"
+    },
+    {
+     "id": "0988F60E-6FD4-4FD1-A208-FA9A538BCBED",
+     "name": "Gamelan",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/cf00aa143351498399b1a5ebb8bcfe65.jpg",
+     "about": "Gamelan is a traditional ensemble music of Indonesia, predominantly from the islands of Java and Bali, featuring a variety of instruments such as metallophones, xylophones, drums, gongs, and bamboo flutes. It is characte"
+    },
+    {
+     "id": "AA5326DA-0C5D-416E-B468-4A2098587002",
+     "name": "Suara Parahiangan",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/a9ec77ac2c454084bf59ca7e0d844990.jpg",
+     "about": "Suara Parahiangan is a music group specializing in traditional Sundanese music from West Java, Indonesia. They focus on preserving and promoting the cultural heritage of the Sundanese people through their music, which of"
+    },
+    {
+     "id": "BCEA2F6D-F86B-46B0-98CB-BBE9D06F8EA8",
+     "name": "Lou Harrison",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/001b7b76919c444ba75528d85404c218.jpg",
+     "about": "Lou Harrison was an American composer renowned for integrating Western classical music with non-Western musical traditions, especially Asian instruments and tuning systems. His work is characterized by experimental appro"
+    },
+    {
+     "id": "4CF5B160-EE1C-467D-8C4D-0300E74AC2C6",
+     "name": "Ujang Suryana",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/9e6b3ecdb5f34c77a55c85bbfb06c16e.jpg",
+     "about": "Ujang Suryana is an Indonesian dangdut singer recognized for his contributions to the dangdut genre, blending traditional and contemporary styles. He has a significant following in Indonesia and is known for his emotive "
+    },
+    {
+     "id": "6344AC08-219A-408F-A0F9-C42A981606A5",
+     "name": "Idjah Hadidjah",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/c9162af306bb45bdb8521762f224b54a.jpg",
+     "about": "Idjah Hadidjah is an Indonesian singer recognized for her work in the dangdut music genre, which blends traditional Indonesian music with Indian, Malay, and Arabic influences. She has contributed to popularizing dangdut "
+    },
+    {
+     "id": "A8CCB363-41CA-4DCE-BA75-48B7A908438F",
+     "name": "Sambasunda",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/73767280ffed4bf183c0e2285f914a6c.jpg",
+     "about": "SambaSunda is a music group from Indonesia known for their performances of Sundanese traditional music combined with contemporary fusion elements. They use traditional Sundanese instruments and incorporate modern musical"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "maya",
+  "name": "Maya",
+  "epithet": "Keepers of the Count and the Loom",
+  "region": "Guatemala · S. Mexico",
+  "lon": -90.5,
+  "lat": 15.5,
+  "language": "K'iche', Yucatec, Tzotzil +28",
+  "vitality": "Several languages vulnerable",
+  "practice": "Backstrap weaving & marimba",
+  "expressions": [
+   "craft",
+   "song",
+   "language",
+   "story"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "Living heirs of the Long Count and the Popol Vuh — weavers of the huipil whose marimba still carries the village square.",
+  "intro": "The Maya are not a people of the past but some seven million living people across Guatemala, southern Mexico and northern Central America — the descendants of the civilisation that raised Tikal and Chichén Itzá, kept the Long Count calendar, and wrote the Popol Vuh. They speak around thirty Mayan languages, terrace the volcanic highlands for maize, weave the huipil on the backstrap loom, and gather to the marimba in the village square.",
+  "respect": "Engage with Maya-led weaving cooperatives and language organisations, buy textiles directly and fairly from the weavers, and respect that some ceremony and knowledge is restricted.",
+  "firstciv_url": "https://firstciv.com/c/maya",
+  "qloo": {
+   "music": [],
+   "music_scope": null,
+   "food": [
+    "urn:tag:category:place:guatemalan_restaurant",
+    "urn:tag:category:place:yucatan_restaurant"
+   ],
+   "food_label": "Guatemalan / Yucatecan (regional)",
+   "anchors": [],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "sami",
+  "name": "Sámi",
+  "epithet": "Guardians of Sápmi",
+  "region": "Sápmi · N. Europe",
+  "lon": 23,
+  "lat": 69,
+  "language": "Northern Sámi +8",
+  "vitality": "Several dialects endangered",
+  "practice": "Joik vocal tradition",
+  "expressions": [
+   "song",
+   "craft",
+   "language",
+   "story"
+  ],
+  "color": "#C8A65D",
+  "blurb": "Reindeer-herders of the Arctic whose joik can sing a person, an animal or a place into being.",
+  "intro": "The Sámi are the indigenous people of Sápmi, the Arctic reaches of northern Europe. For thousands of years they have herded reindeer, crafted duodji, and sung joik — a vocal tradition that does not sing about a person or place, but sings the thing itself into the room.",
+  "respect": "Learn from Sámi institutions and artists, respect that joik and duodji belong to their communities, and support language revitalisation. FirstCiv keeps such recordings community-owned and consent-first.",
+  "firstciv_url": "https://firstciv.com/c/sami",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:joik",
+    "urn:tag:genre:music:sami"
+   ],
+   "music_scope": "culture",
+   "food": [],
+   "food_label": null,
+   "anchors": [
+    {
+     "id": "0594146F-8E90-4146-BFBB-D0EB28EDA483",
+     "name": "SomBy",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e7587f42ac5a42c5b8ed35a551a013c0.jpg",
+     "about": null
+    },
+    {
+     "id": "783A1F0F-9796-4515-B734-251103FB06EE",
+     "name": "Transjoik",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/00f83841241a4a6495f66df1b7a73ffa.jpg",
+     "about": "Transjoik is a Norwegian music group known for blending traditional Sami joik singing with modern electronic and ambient music elements. They incorporate indigenous Sami cultural expressions with contemporary music style"
+    },
+    {
+     "id": "C77A08F5-CCEE-4CBC-B9B6-C4F01AFD2E17",
+     "name": "rOlfFa",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/609a9710228f4d12a855c71b0aab74c9.jpg",
+     "about": "RolfFa is an electronic music producer specializing in techno and house genres, with influences from ambient and experimental music. Known for crafting immersive soundscapes and rhythmic beats, RolfFa has contributed to "
+    },
+    {
+     "id": "C31AAC71-5582-47E4-A07C-C46A3C104CAA",
+     "name": "Ailu Valle",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/abfe3487940510c44b976edbc90bfd72.jpg",
+     "about": "Ailu Valle is a Spanish singer-songwriter and musician recognized for his emotive and introspective rock and indie music. He has a distinctive voice and poetic lyricism, often blending elements of rock, alternative, and "
+    },
+    {
+     "id": "C966FACE-6AB6-4442-8F01-0C1223073780",
+     "name": "Ulla Pirttijärvi",
+     "image": null,
+     "about": "Ulla Pirttijärvi is a renowned Sami singer and musician from Finland, celebrated for her traditional joik singing and contributions to Sami folk music. She blends traditional Sami vocal styles with contemporary folk infl"
+    },
+    {
+     "id": "7DBFCCA5-E97C-4589-A29C-3F72B864DDFA",
+     "name": "Angelit",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/ceaca136fafe496573629635a828028b.jpg",
+     "about": "Angelit is a Finnish ambient music group that combines traditional Sámi joik singing with modern electronic and ambient music elements. The group is known for creating atmospheric soundscapes that reflect the culture and"
+    },
+    {
+     "id": "BE784C31-5BD5-43C7-A86C-12DD87A92334",
+     "name": "Sofia Jannok",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/db8455460d574bc08164a0a45d65435c.jpg",
+     "about": "Sofia Jannok is a Swedish-Sami singer, songwriter, and activist who combines traditional Sami joik with pop and folk music elements. She is recognized for her powerful voice and her commitment to indigenous rights and en"
+    },
+    {
+     "id": "89DF7C85-57DD-4727-9717-76197C4371F3",
+     "name": "Vajas",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/9bc054567eeb4d33833f4430c65897ad.jpg",
+     "about": "Vajas is a Nordic music group known for blending traditional Sámi joik singing with modern electronic and ambient music elements. The group consists of Nils-Aslak Valkeapää, a renowned Sámi poet and joik singer, Wimme Sa"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "maori",
+  "name": "Māori",
+  "epithet": "Tangata Whenua of Aotearoa",
+  "region": "Aotearoa · New Zealand",
+  "lon": 174,
+  "lat": -40.5,
+  "language": "te reo Māori",
+  "vitality": "Revitalising",
+  "practice": "Haka & waiata",
+  "expressions": [
+   "dance",
+   "song",
+   "language",
+   "craft"
+  ],
+  "color": "#B37A4C",
+  "blurb": "Tangata whenua of Aotearoa — haka, waiata and whakairo carving carrying ancestral memory.",
+  "intro": "The Māori are the tangata whenua — the people of the land — of Aotearoa, descendants of Polynesian navigators who crossed the open Pacific by waka some eight centuries ago. Their world is held in whakapapa (genealogy that binds people to mountains, rivers and ancestors), voiced in haka and waiata, and carved into the wood of the wharenui in whakairo. After a long colonial eclipse, te reo Māori and its arts are in determined revival.",
+  "respect": "Engage with Māori-led organisations and iwi, learn te reo, and respect that taonga (treasures) carry mana and belong to their people.",
+  "firstciv_url": "https://firstciv.com/c/maori",
+  "qloo": {
+   "music": [
+    "urn:tag:theme:qloo:maori_culture"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:new_zealand_restaurant"
+   ],
+   "food_label": "New Zealand (regional)",
+   "anchors": [
+    {
+     "id": "4E3A9029-D590-45F8-849D-4688C8A10627",
+     "name": "Whirimako Black",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/16396c27cbb14500c5148cd19f6d6472.jpg",
+     "about": "Whirimako Black is a New Zealand Māori singer renowned for her soulful voice and her dedication to traditional Māori music and language. She blends contemporary and traditional elements, often singing in te reo Māori, an"
+    },
+    {
+     "id": "301AB7F7-5114-47D6-A9C2-9AA56C85AB99",
+     "name": "Southside of Bombay",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/30b5f7bdf83b410bba3ddd6068633a63.jpg",
+     "about": "Southside Of Bombay is a New Zealand band that gained prominence in the 1990s for their unique fusion of traditional Māori music with reggae and pop influences. They are best known for their hit song \"What's The Time, Mr"
+    },
+    {
+     "id": "D2DA575E-1B91-4DD2-9135-E87AFF4C7E5E",
+     "name": "Alien Weaponry",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f5379e7fc261ef7069f1dd2ce2b01f90.jpg",
+     "about": "Alien Weaponry is a New Zealand metal band that combines thrash metal and heavy metal with elements of Māori language and culture. Formed by brothers Lewis and Henry De Jong along with their friend Ethan Trembath, the ba"
+    },
+    {
+     "id": "4EA8BC57-26C7-4380-BC6D-193C0986B16B",
+     "name": "Billy T James",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/805992973c0b4fbfaedc9f294ab7918b.jpg",
+     "about": "Billy T James was a celebrated New Zealand comedian, actor, and musician known for his unique blend of comedy and music, often incorporating Maori culture and humor into his performances. He was a pioneering figure in Ne"
+    },
+    {
+     "id": "E90E899B-24B9-49A7-983B-61DB8F290F59",
+     "name": "Patea Maori Club",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/261c636660d7476cb33bb76e1ebab0a1.jpg",
+     "about": "Patea Maori Club is a New Zealand music group formed in the early 1980s, known for their unique fusion of traditional Maori music and reggae. They gained international recognition with their hit single 'Poi E', which com"
+    },
+    {
+     "id": "711251A0-4B18-4332-BFB4-0FBF637873F8",
+     "name": "Maisey Rika",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f160d6ddcf034ae295aaa302d80891af.jpg",
+     "about": "Maisey Rika is a New Zealand Māori singer-songwriter renowned for her soulful voice and her dedication to preserving and promoting Māori language and culture through music. Her work blends traditional Māori musical eleme"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "maasai",
+  "name": "Maasai",
+  "epithet": "Cattle-Keepers of the Rift Valley",
+  "region": "Kenya · Tanzania",
+  "lon": 36.5,
+  "lat": -2.5,
+  "language": "Maa",
+  "vitality": "Vulnerable",
+  "practice": "Adumu jumping dance",
+  "expressions": [
+   "dance",
+   "song",
+   "craft"
+  ],
+  "color": "#B37A4C",
+  "blurb": "Pastoralists of the Rift Valley whose adumu dance and beadwork encode age, status and lineage.",
+  "intro": "The Maasai are semi-nomadic pastoralists of the Great Rift Valley, herding cattle, goats and sheep across the open grasslands that straddle the border of Kenya and Tanzania. Their lives turn on the herd and on the age-set system, by which boys become moran — the warriors who once guarded the cattle — and in time become elders. The world knows them by the adumu, the soaring jumping dance, by the deep red shúkà cloth, and by beadwork whose every colour and pattern speaks of age, status and lineage. They speak Maa, a Nilotic tongue carried entirely in voice and memory.",
+  "respect": null,
+  "firstciv_url": "https://firstciv.com/c/maasai",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:kenyan",
+    "urn:tag:genre:music:benga"
+   ],
+   "music_scope": "regional",
+   "food": [
+    "urn:tag:category:place:east_african_restaurant"
+   ],
+   "food_label": "East African (regional)",
+   "anchors": [
+    {
+     "id": "5EC43278-B1F8-45A1-B85E-2252F664798E",
+     "name": "Sauti Sol",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/08dfd3b46fcb4f6fa3f4f5bba37cea3e.jpg",
+     "about": "Sauti Sol is a Kenyan Afro-pop band formed in Nairobi in 2005. The group consists of Bien-Aimé Baraza, Willis Austin Chimano, Savara Mudigi, and Polycarp Otieno. They are known for their unique blend of Afrobeat, soul, a"
+    },
+    {
+     "id": "8D2AA57F-599E-42A2-93BA-5D752F235CDE",
+     "name": "Extra Golden",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/3db92162937948cb9e25693fd5e30e16.jpg",
+     "about": "Extra Golden is a unique American-Kenyan band known for blending Afrobeat rhythms with indie rock and world music elements. The group features Kenyan musicians Otieno Gomba and John Mworia alongside American musicians Ma"
+    },
+    {
+     "id": "45DAACC0-0A08-4456-80E7-6AD3D4416C35",
+     "name": "Abana Ba Nasery",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f3151d6dec6a473f825bd427cec6e21b.jpg",
+     "about": "Abana Ba Nasery is a Kenyan folk music group renowned for their traditional acoustic sound and storytelling through music. They blend indigenous Kenyan musical styles with folk elements, often using acoustic guitars and "
+    },
+    {
+     "id": "4E9287DF-C8F5-48A7-A07A-EFE2C12F67B8",
+     "name": "KayCyy",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d11def3b8f0f0e1d3d995732392ef87a.jpg",
+     "about": "KayCyy is an American rapper, singer, and songwriter known for his melodic style and collaborations with prominent artists in the hip hop and rap scenes. He gained recognition through his work with Kanye West and other n"
+    },
+    {
+     "id": "17E6D346-38F8-4192-ADDE-8062B907E40A",
+     "name": "Multiply",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/6ba20feb54634f6bcfcacb67ca472e08.jpg",
+     "about": null
+    },
+    {
+     "id": "E1CB9A8F-178C-4DC9-96D2-E8A7356339BC",
+     "name": "Lil Halima",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/45c2854689fec4c5aa6a8e1386bdd938.jpg",
+     "about": "Lil Halima is an American female rapper who gained recognition in the hip hop scene for her raw and energetic delivery, often incorporating themes of street life and personal empowerment in her music. She is known for bl"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "tuvan",
+  "name": "Tuvan",
+  "epithet": "People Who Sing the Steppe",
+  "region": "Tuva · Central Asia",
+  "lon": 94,
+  "lat": 51.7,
+  "language": "Tuvan",
+  "vitality": "Vulnerable",
+  "practice": "Khöömei throat-singing",
+  "expressions": [
+   "song",
+   "story"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "Herders of the steppe who sing two notes at once, echoing wind, river and animal.",
+  "intro": "The Tuvans are a Turkic people of the south-Siberian steppe and taiga, herders of horse, sheep, yak and reindeer at the very centre of Asia, where the Yenisei is born. Their gift to the world is khöömei — throat-singing, in which a single voice splits into two or more notes at once, drawing a deep drone beneath a whistling overtone melody that imitates wind over grass, water over stone and the call of an animal. The igil and doshpuluur carry the same sound on horsehair strings. Their world is held between Tengrism and shamanism, the spirit of every spring and mountain, and a deep-rooted Tibetan Buddhism.",
+  "respect": "Support Tuvan musicians and khöömei masters directly, learn a few words of the Tuvan language, and back community-led recording.",
+  "firstciv_url": "https://firstciv.com/c/tuvan",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:tuvan",
+    "urn:tag:genre:music:tuva"
+   ],
+   "music_scope": "culture",
+   "food": [],
+   "food_label": null,
+   "anchors": [
+    {
+     "id": "91DF018D-1ADB-4C0E-9806-5A81ECF86F8D",
+     "name": "Igor Koshkendey",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/a3d32a3aedc44ab4b9cb665fa578285d.jpg",
+     "about": "Igor Koshkendey is a renowned Tuvan throat singer, recognized for his mastery of traditional Tuvan throat singing techniques. He is a prominent figure in the world music scene, particularly in the genre of Tuvan folk mus"
+    },
+    {
+     "id": "09C5615F-3AB8-44E9-A245-12D347818994",
+     "name": "Bilchi-Maa Davaa",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/ef5fcd65a6fc424dbc7ceee4c4cd9fe6.jpg",
+     "about": null
+    },
+    {
+     "id": "DC30D44A-9EE8-4839-A748-9FC2DFDAD722",
+     "name": "Shaktar Shulban",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/2c78c117ca8f4828b849f878a7c8fcc4.jpg",
+     "about": null
+    },
+    {
+     "id": "57EDE6A2-9DA0-4A00-A5CF-CA5997E76C8D",
+     "name": "Arjopa",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/01713aea718145fbafc8fb16dcbf022a.jpg",
+     "about": "Arjopa is an electronic dance music duo specializing in house and dance music, known for their energetic beats and catchy melodies that blend electronic and pop influences."
+    },
+    {
+     "id": "0E23610D-B788-4247-9F9E-10519DC83DB9",
+     "name": "Tuva Ensemble",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/1e9d2d21c39de60b9ae60826d38d4669.jpg",
+     "about": "Tuva Ensemble is a musical group known for performing traditional Tuvan throat singing, a unique vocal technique from the Tuva region in Siberia. They focus on preserving and promoting the folk music and cultural heritag"
+    },
+    {
+     "id": "93D9DCB6-5705-47EA-8ADA-D2101836070B",
+     "name": "Aldyn-ool Sevek",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/ab8790cca6c446c0bb7ebb837c9cd6b0.jpg",
+     "about": "Aldyn-ool Sevek is a renowned Tuvan throat singer, celebrated for his mastery of traditional overtone singing techniques native to Tuva, a republic in Russia. His vocal style involves producing multiple pitches simultane"
+    },
+    {
+     "id": "84ABA84B-3E7A-439A-B984-D99F371D0C9E",
+     "name": "Kaigal-ool Khovalyg",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/52e97b44949edecc1cc442222af0487a.jpg",
+     "about": "Kaigal-Ool Khovalyg is a renowned Tuvan throat singer specializing in traditional Tuvan throat singing, also known as overtone singing. He is recognized for his mastery of various throat singing styles and his contributi"
+    },
+    {
+     "id": "46D7B0B9-5705-459F-884D-948E82154053",
+     "name": "Oorzhak Khunashtaar-ool",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e06a45d470921c0d2441b73b6fe4f53d.jpg",
+     "about": "Oorzhak Khunashtaar-ool is a music artist. Specific details about his genre, biography, and career are not provided."
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "ainu",
+  "name": "Ainu",
+  "epithet": "People of the Northern Forests",
+  "region": "Hokkaidō · Japan",
+  "lon": 143,
+  "lat": 43.2,
+  "language": "Ainu",
+  "vitality": "Critically endangered",
+  "practice": "Upopo songs & yukar epics",
+  "expressions": [
+   "song",
+   "story",
+   "craft"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "Indigenous people of the north whose yukar epics were sung for nights without end.",
+  "intro": "The Ainu are the Indigenous people of the northern islands — Ainu Mosir, 'the quiet land of human beings' — across Hokkaidō, Sakhalin and the Kurils. They are fishers of salmon and hunters of deer and bear, whose world is alive with kamuy, the spirits who dwell in every animal, plant, river and fire. Their inheritance is carried in the upopo round-songs sung seated in a circle, in the yukar epics that once filled whole winter nights, in the breath of the mukkuri mouth-harp, and in the bold moreu spirals embroidered onto attus elm-bark robes. The Ainu language — a true isolate, kin to no other on Earth — is critically endangered, yet a determined revival is under way.",
+  "respect": "Support Ainu-led cultural organisations and the Upopoy National Ainu Museum in Hokkaidō; learn and share accurate history; buy attus weaving and woodcarving directly from Ainu makers; and back language-revival programmes. On FirstCiv, recordings are made only with the consent of Ainu keepers, ownership stays with the community of origin, and royalties flow back to them — so that the culture sustains the people who keep it alive.",
+  "firstciv_url": "https://firstciv.com/c/ainu",
+  "qloo": {
+   "music": [],
+   "music_scope": null,
+   "food": [],
+   "food_label": null,
+   "anchors": [],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "quechua",
+  "name": "Quechua",
+  "epithet": "People of the Sun and the Loom",
+  "region": "Andes · Peru",
+  "lon": -72,
+  "lat": -13.5,
+  "language": "Runa Simi (Quechua)",
+  "vitality": "Vulnerable",
+  "practice": "Andean weaving & huayno",
+  "expressions": [
+   "craft",
+   "song",
+   "language"
+  ],
+  "color": "#C8A65D",
+  "blurb": "Heirs of the Andes whose textiles read like books and whose music climbs the mountains.",
+  "intro": "The Quechua are the heirs of the Andes — the largest family of Indigenous peoples in the Americas, descendants of the herders, farmers and weavers whose lands the Inca once knit into Tawantinsuyu, the realm of the four quarters. They speak Runa Simi, the people's tongue, terrace the steep mountainsides for maize and a thousand potatoes, and weave textiles so dense with meaning that a cloth can be read like a page. Their huayno songs, pan-pipes and the small charango carry the same memory in sound.",
+  "respect": "",
+  "firstciv_url": "https://firstciv.com/c/quechua",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:andean_music",
+    "urn:tag:genre:music:huayno",
+    "urn:tag:genre:music:andean_folk"
+   ],
+   "music_scope": "culture + regional",
+   "food": [
+    "urn:tag:category:place:peruvian_restaurant"
+   ],
+   "food_label": "Peruvian (regional)",
+   "anchors": [
+    {
+     "id": "144B3CA1-7A3E-480A-B41D-084614C29032",
+     "name": "Picaflor de los Andes",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0824d2901bd849069ec0e334b28e12c8.jpg",
+     "about": null
+    },
+    {
+     "id": "095CD8E5-A8A7-4B58-A081-1CCB41CE20F4",
+     "name": "Manuelcha Prado",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/1649bfc9c60544799a0d00b2da426178.jpg",
+     "about": "Manuelcha Prado is a renowned Peruvian singer and guitarist celebrated for his mastery of traditional Andean music, particularly the huayno genre. He is recognized for preserving and promoting the cultural heritage of th"
+    },
+    {
+     "id": "F97820BD-20DC-4DF9-8D9F-E722E7A3B7E0",
+     "name": "Savia Andina",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e26df53067fa47bcc7f80859d43bd448.jpg",
+     "about": "Savia Andina is a renowned Bolivian folk music group that specializes in traditional Andean music, blending indigenous instruments and melodies to celebrate the cultural heritage of the Andes region. They are known for t"
+    },
+    {
+     "id": "911AB5A0-4094-4D8A-8E22-E72067A0AB43",
+     "name": "Viento de los Andes",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/dfff334c98a84a7e8daafb6cd3eb1205.jpg",
+     "about": "Viento De Los Andes is a musical group known for performing traditional Andean folk music, featuring indigenous instruments and melodies from the Andes region of South America."
+    },
+    {
+     "id": "827B198F-24E4-4349-AC25-CBD62B1A3167",
+     "name": "Rumillajta",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/5b8f287b46144f629bd5cffe7a7efa09.jpg",
+     "about": "Rumillajta is a Bolivian music group specializing in Andean folk music, blending traditional indigenous instruments and melodies to celebrate and preserve native culture. They are recognized for their authentic represent"
+    },
+    {
+     "id": "DD2E7A30-8120-41A4-96FB-AD408D495927",
+     "name": "Luis Abanto Morales",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e6287ad07c9b215415829489ef5667ee.jpg",
+     "about": "Luis Abanto Morales was a renowned Peruvian singer and composer famous for his contributions to Peruvian folk and Andean music. He is celebrated for his emotive voice and compositions that reflect the cultural heritage o"
+    },
+    {
+     "id": "42B8C70F-7A70-4738-BCC0-96CFB90057AE",
+     "name": "Echoes of Incas",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/735b289b3a964446b2a5e6d71a321419.jpg",
+     "about": "Echoes Of Incas is a musical group dedicated to performing traditional Andean music, often featuring authentic instruments such as pan flutes, charangos, and drums. Their music reflects the rich cultural heritage of the "
+    },
+    {
+     "id": "0807A6E3-033E-4DF4-AA47-0ABE4BD15154",
+     "name": "Wendy Sulca",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/5c7b3f6b56eadd1c2966f97025ef353c.jpg",
+     "about": "Wendy Sulca is a Peruvian singer who gained fame as a child for her viral Andean folk and pop songs, blending traditional Andean music with contemporary pop elements. She became an internet sensation in the late 2000s an"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "tuareg",
+  "name": "Tuareg",
+  "epithet": "The People of the Veil",
+  "region": "Sahara · Mali · Niger",
+  "lon": 3,
+  "lat": 19,
+  "language": "Tamasheq (Tifinagh)",
+  "vitality": "Vulnerable",
+  "practice": "Desert song & poetry",
+  "expressions": [
+   "song",
+   "language",
+   "craft"
+  ],
+  "color": "#8A623C",
+  "blurb": "People of the veil whose Tifinagh script and desert blues cross the dunes.",
+  "intro": "The Tuareg — who call themselves the Kel Tamasheq, 'those who speak Tamasheq' — are a Berber people of the central Sahara and Sahel, scattered across Mali, Niger, Algeria, Libya and Burkina Faso. For more than two thousand years they have crossed the desert by camel, guiding the salt and gold caravans between the oases and the Sahel. The men, not the women, wear the indigo tagelmust veil whose dye once rubbed off onto the skin, earning the Tuareg their old nickname, the 'blue people'. Theirs is a society with strong matrilineal threads, an ancient written script — Tifinagh — and a desert music, assouf, that has carried their longing for home onto stages around the world.",
+  "respect": "Support Tuareg-led cultural associations and artisan cooperatives — especially the inadan silversmiths and the women who keep the imzad and Tifinagh alive — and buy crafts such as the Cross of Agadez directly from their makers.",
+  "firstciv_url": "https://firstciv.com/c/tuareg",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:tuareg",
+    "urn:tag:genre:music:desert_blues"
+   ],
+   "music_scope": "culture",
+   "food": [],
+   "food_label": null,
+   "anchors": [
+    {
+     "id": "9D593F02-F5F1-4057-9012-00B5E1ABE1CE",
+     "name": "Kel Assouf",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/07d11edc2b714ba793c4d6f66670c42f.jpg",
+     "about": "Kel Assouf is a Tuareg blues band formed by Nigerien musician Anana Harouna. The group combines traditional Tuareg music with blues, rock, and electronic influences, creating a unique sound that reflects the desert's vas"
+    },
+    {
+     "id": "D44B2E29-6539-4931-B8DE-352F92F20107",
+     "name": "Toumast",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/08f09561e44a4c85ae804c5091be344b.jpg",
+     "about": "Toumast is a Tuareg band from the Sahara Desert region, known for their unique blend of traditional Tuareg music with modern blues and folk influences. Their music often features traditional instruments like the teharden"
+    },
+    {
+     "id": "F70AE60F-B65B-47B6-A915-AD9DC9D80702",
+     "name": "Tidawt",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/144b03f2937e473a8e00cde6763ae055.jpg",
+     "about": "Tidawt is a Berber music group that blends traditional Amazigh musical elements with contemporary influences, representing the cultural heritage of the Berber people in North Africa. Their music often features traditiona"
+    },
+    {
+     "id": "B55FBE1C-2050-4D73-8806-9BB0F6F7B7D0",
+     "name": "Tartit",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/553aeeda831a44fe81ecb379f5b1fe93.jpg",
+     "about": "Tartit is a musical group from Mali, composed primarily of Tuareg musicians. They are known for their unique blend of traditional Tuareg music with modern influences, often featuring traditional instruments such as the i"
+    },
+    {
+     "id": "AF0D8273-6619-47E3-BF32-7F8E31E9EBF0",
+     "name": "Terakaft",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/aa962da037e343d3ab5a047d01b0ff21.jpg",
+     "about": "Terakaft is a Tuareg desert blues band formed by former members of Tinariwen, known for their fusion of traditional Saharan melodies and rhythms with contemporary rock influences. Their music features electric guitars, t"
+    },
+    {
+     "id": "824B53CA-14D0-453B-8CDA-8BF9881E0174",
+     "name": "Tamikrest",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0ec6db27cbf74c71b3fc5a61ac9848d1.jpg",
+     "about": "Tamikrest is a musical group from Mali, formed by Tuareg musicians who combine traditional Saharan melodies and rhythms with contemporary rock and blues influences. Their music often reflects the struggles and culture of"
+    },
+    {
+     "id": "FBAD1330-490F-4964-BD50-8F6CA3AF66D0",
+     "name": "Etran Finatawa",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f76ed62817c641b890bcc122de979189.jpg",
+     "about": "Etran Finatawa is a band from Niger known for blending the musical traditions of the Tuareg and Wodaabe peoples with modern instrumentation and styles. Their music combines traditional African rhythms and melodies with b"
+    },
+    {
+     "id": "4F957CE4-488F-44E6-94B5-F2408E6321CE",
+     "name": "Majid Bekkas",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/85748a9f702e4c2785151b03a9f4b73b.jpg",
+     "about": "Majid Bekkas is a Moroccan musician known for his mastery of the guembri, a traditional Gnawa instrument, and his fusion of Gnawa music with jazz and blues. He is a vocalist and multi-instrumentalist who has gained inter"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "inuit",
+  "name": "Inuit",
+  "epithet": "People of the Sea Ice",
+  "region": "Arctic · Nunavut",
+  "lon": -84,
+  "lat": 66,
+  "language": "Inuktitut",
+  "vitality": "Vulnerable",
+  "practice": "Katajjaq throat-singing",
+  "expressions": [
+   "song",
+   "craft",
+   "story"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "People of the sea ice whose katajjaq is a breath-game sung face to face.",
+  "intro": "The Inuit are the people of the circumpolar Arctic, from Chukotka across Alaska and Arctic Canada to Greenland. For millennia they have read the sea ice, built the iglu, hunted from the qajaq, and traded the long polar night for song. Katajjaq — a breath-game sung face to face between two women — ends, always, in laughter.",
+  "respect": "",
+  "firstciv_url": "https://firstciv.com/c/inuit",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:inuit_throat_singing",
+    "urn:tag:genre:music:inuit"
+   ],
+   "music_scope": "culture",
+   "food": [],
+   "food_label": null,
+   "anchors": [
+    {
+     "id": "E474487E-CE9D-4061-9597-4A53CC254165",
+     "name": "Tanya Tagaq",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/ddd11d22bb294bc889bdb4aea57616b0.jpg",
+     "about": "Tanya Tagaq is a Canadian Inuk throat singer renowned for her unique and innovative approach to traditional Inuit throat singing, blending it with experimental and avant-garde music styles. She has gained international a"
+    },
+    {
+     "id": "B807AAAB-F4BC-4984-934C-06242A146079",
+     "name": "Tudjaat",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/fd85534e9ab14eb5b2406392daeefdd4.jpg",
+     "about": "Tudjaat is an Inuit folk music duo consisting of Nancy Mike and Padluq Snyder. They are known for their traditional Inuit songs and throat singing, blending cultural heritage with contemporary folk influences. Their musi"
+    },
+    {
+     "id": "E0076D0D-3258-4638-BF5F-53D03D51161D",
+     "name": "Lucie Idlout",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/2eb6963352044da7a95b8379452c4623.jpg",
+     "about": null
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "aboriginal",
+  "name": "Aboriginal Australians",
+  "epithet": "The Oldest Living Cultures on Earth",
+  "region": "Central Australia",
+  "lon": 133,
+  "lat": -25,
+  "language": "250+ languages",
+  "vitality": "Many endangered",
+  "practice": "Songlines & yiḏaki",
+  "expressions": [
+   "song",
+   "story",
+   "dance",
+   "craft"
+  ],
+  "color": "#C8A65D",
+  "blurb": "The oldest continuous cultures on Earth, mapping the land in Songlines 65,000 years deep.",
+  "intro": "Aboriginal Australians are the First Peoples of the Australian continent, with an unbroken presence reaching back at least 65,000 years — the oldest continuous living cultures on Earth. They are not one people but hundreds of distinct nations, each with its own Country, language and Law. Knowledge is carried in Songlines that thread across the land, in the deep yiḏaki drone, in ceremony, and in painting that maps the Dreaming.",
+  "respect": "Follow Aboriginal leadership, never share sacred or restricted material, and ensure recordings are made with the consent of Traditional Owners — which is how FirstCiv operates.",
+  "firstciv_url": "https://firstciv.com/c/aboriginal",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:australian_aboriginal",
+    "urn:tag:genre:music:indigenous_australian",
+    "urn:tag:genre:music:didgeridoo"
+   ],
+   "music_scope": "culture",
+   "food": [],
+   "food_label": null,
+   "anchors": [
+    {
+     "id": "86D4838D-625E-49E9-9E9E-9CBE9893818F",
+     "name": "Analogue Birds",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/8f14c2ff002c451d82149cf4ecaa5f32.jpg",
+     "about": "Analogue Birds is an indie rock band recognized for their energetic live performances and melodic guitar-driven sound, blending elements of alternative and post-punk rock. They have carved a niche in the indie music scen"
+    },
+    {
+     "id": "90DAEB4F-EAA4-4CA6-BF52-0A5F02D18638",
+     "name": "Lights in a Fat City",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/68e696b9d7e047429dce16553990a8de.jpg",
+     "about": "Lights In A Fat City is an indie rock band recognized for their distinctive blend of alternative rock elements and dynamic live shows. They have carved a niche in the indie music scene with their innovative sound and eng"
+    },
+    {
+     "id": "A11FA8B4-7E8E-4E9A-81A0-B4B6A3172F5E",
+     "name": "Mark Atkins",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/8d548034ec64449db513266db258788b.jpg",
+     "about": "Mark Atkins is an acclaimed Australian Aboriginal musician and composer, renowned for his mastery of the didgeridoo. He blends traditional Indigenous Australian music with contemporary styles, creating a unique sound tha"
+    },
+    {
+     "id": "DF7C482C-BC5F-4EA3-BEA2-3641EC386057",
+     "name": "ZMEIRADUGA",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/5f028f23ab84472780bffb16018c5d59.jpg",
+     "about": "Zmeiraduga is an electronic music artist specializing in synthwave and chiptune genres, blending nostalgic 8-bit sounds with modern electronic production techniques to create atmospheric and experimental tracks."
+    },
+    {
+     "id": "E33527F3-3BBE-4E64-8A9A-5D78F7987E39",
+     "name": "David Hudson and Friends",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/21d321e71d494d2680ce6280e3df1cfd.jpg",
+     "about": "David Hudson and Friends is a music group led by David Hudson, an Indigenous Australian musician renowned for his didgeridoo playing and cultural storytelling. The group blends traditional Indigenous Australian music wit"
+    },
+    {
+     "id": "1E2CBFB1-94CD-4EB9-BE4D-88D1ACC6A1C8",
+     "name": "Tarshito",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/58763687.jpg.jpg",
+     "about": "Tarshito is a Puerto Rican singer and songwriter specializing in reggaeton and Latin trap music. He gained recognition in the Latin urban music scene with his distinctive style and collaborations with other artists in th"
+    },
+    {
+     "id": "58F6FC6D-13E3-4964-8766-194EAF701C02",
+     "name": "Gondwanaland",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/58764845.jpg.jpg",
+     "about": "Gondwanaland is an Australian ambient and world music group formed in the early 1980s, notable for their innovative fusion of traditional Indigenous Australian instruments, especially the didgeridoo, with electronic musi"
+    },
+    {
+     "id": "17E0BE01-4364-4220-B939-B623A3251191",
+     "name": "Alan Dargin",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/3e98fc3d8e3d4e18a93f6b6370cef420.jpg",
+     "about": "Alan Dargin was an acclaimed Australian didgeridoo player renowned for his virtuosic skill and for integrating traditional Aboriginal music with modern genres such as blues and rock. He was one of the first Indigenous Au"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "hmong",
+  "name": "Hmong",
+  "epithet": "Weavers of the Story-Cloth",
+  "region": "SE-Asian highlands",
+  "lon": 104,
+  "lat": 22,
+  "language": "Hmong",
+  "vitality": "Stable, dispersed",
+  "practice": "Story-cloth & qeej",
+  "expressions": [
+   "craft",
+   "song",
+   "story"
+  ],
+  "color": "#B37A4C",
+  "blurb": "Highland weavers whose paj ntaub story-cloths stitch migration and memory.",
+  "intro": "The Hmong are a highland people whose home is the misted ridge-tops of southern China and the borderlands of Vietnam, Laos and Thailand — and, since the wars of the twentieth century, a far-flung diaspora that reaches deep into the United States, France and Australia. They reckon themselves not by nation but by clan, and carry their history not in books but in cloth: the paj ntaub, the 'flower cloth', whose appliqué and cross-stitch once held a script lost to conquest, and whose story-cloths now stitch whole journeys of flight and exile into a single panel. Their courtship songs answer one another across the New Year field, the reed-piped qeej speaks to the dead, and indigo batik draws cosmology in beeswax and dye.",
+  "respect": "By recording and sharing it with consent and with credit and benefit flowing back to the community.",
+  "firstciv_url": "https://firstciv.com/c/hmong",
+  "qloo": {
+   "music": [],
+   "music_scope": null,
+   "food": [
+    "urn:tag:category:place:laotian_restaurant"
+   ],
+   "food_label": "Laotian (regional)",
+   "anchors": [],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "san",
+  "name": "San",
+  "epithet": "The First People of the Kalahari",
+  "region": "Kalahari · Botswana",
+  "lon": 21,
+  "lat": -22,
+  "language": "Click languages (ǃXóõ +)",
+  "vitality": "Severely endangered",
+  "practice": "Healing trance dance",
+  "expressions": [
+   "dance",
+   "song",
+   "language",
+   "story"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "Among humanity's oldest lineages, whose click languages and trance dance still heal.",
+  "intro": "The San are the first people of southern Africa — hunter-gatherers of the Kalahari whose ancestors have lived on this land for tens of thousands of years, carrying some of the oldest genetic lineages of humankind. They are not one people but many, speaking a family of click languages — among the most sound-rich tongues on Earth — and bound together by the trance-dance, in which healers enter altered states to draw sickness from the sick. Their hand painted the eland onto rock across the subcontinent. Dispossessed of much of their land and pressed hard by the modern world, the San endure, and their knowledge endures with them.",
+  "respect": "Recording elders' speech, songs and stories with their consent fixes endangered click languages before they fall silent, and supporting San-led community trusts, land claims and language schools keeps that knowledge in San hands.",
+  "firstciv_url": "https://firstciv.com/c/san",
+  "qloo": {
+   "music": [],
+   "music_scope": null,
+   "food": [],
+   "food_label": null,
+   "anchors": [],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "gnawa",
+  "name": "Gnawa",
+  "epithet": "Keepers of the Night of Healing",
+  "region": "Morocco",
+  "lon": -7.6,
+  "lat": 31.6,
+  "language": "Darija · Bambara roots",
+  "vitality": "Living, UNESCO-listed",
+  "practice": "Lila spiritual music",
+  "expressions": [
+   "song",
+   "dance",
+   "story"
+  ],
+  "color": "#C8A65D",
+  "blurb": "Descendants of sub-Saharan lineages whose all-night lila summons healing and trance.",
+  "intro": "The Gnawa are a Moroccan people and spiritual brotherhood descended from the enslaved sub-Saharan Africans — Bambara, Hausa, Fulani and others — carried north across the Sahara over centuries. From that wound they wove a culture of healing: the lila, an all-night ceremony of music, incense and trance led by a maâlem on the deep, three-string guembri lute, driven by the iron clatter of the qraqeb castanets and sung in a Darija laced with remembered Bambara. Colour by colour the night summons the mluk, the spirits, until the afflicted dance their pain into release. Inscribed by UNESCO in 2019, Gnawa music now fills festival stages from Essaouira to the world — yet its heart remains the brotherhood and the long night.",
+  "respect": "Support the maâlems and brotherhoods directly — attend their ceremonies and festivals on their terms, buy their recordings, and respect that the sacred core of the lila is not for sale or spectacle.",
+  "firstciv_url": "https://firstciv.com/c/gnawa",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:gnawa"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:moroccan_restaurant"
+   ],
+   "food_label": "Moroccan",
+   "anchors": [
+    {
+     "id": "F35AA5D5-B175-49AC-9970-2C02E7753D26",
+     "name": "Hoba Hoba Spirit",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/18528f93d41e4eaeb62aa457df983d5f.jpg",
+     "about": "Hoba Hoba Spirit is a Moroccan band known for their unique fusion of rock, reggae, funk, and traditional Gnawa music. Formed in Casablanca, they blend Western and Moroccan musical styles, creating a distinctive sound tha"
+    },
+    {
+     "id": "A69B3986-572F-427E-81F7-DABD0E8C0657",
+     "name": "Hassan Hakmoun",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/63630817a8434ce1844ac7c1ec9e2f6c.jpg",
+     "about": "Hassan Hakmoun is a Moroccan musician renowned for his mastery of Gnawa music, a traditional North African genre combining spiritual songs and rhythms. He is noted for fusing Gnawa with jazz, rock, and other world music "
+    },
+    {
+     "id": "23E7DD00-1B86-4F5D-91C1-A4346D1CFFDD",
+     "name": "Gnawa Njoum Experience",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/82c738c6e56d4e77aa421767f7a7568f.jpg",
+     "about": "Gnawa Njoum Experience is a Moroccan musical group known for blending traditional Gnawa music with contemporary genres such as jazz and blues, creating a unique fusion sound that respects the roots of Gnawa spiritual and"
+    },
+    {
+     "id": "3F9CCA36-E824-4AFD-9099-BBFB9ADF53AF",
+     "name": "Nass el Ghiwane",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/cafc748bbb694de0a0939248faed8ffd.jpg",
+     "about": "Nass El Ghiwane is a pioneering Moroccan musical group formed in the 1970s, known for their innovative fusion of traditional Moroccan folk, Gnawa, and Chaabi music with contemporary social and political themes. They are "
+    },
+    {
+     "id": "92DB09E0-9AFD-4D3B-86A5-FCF819033120",
+     "name": "Gnawa Diffusion",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/444f5c4ddd5b4a80a5dd8311ae886b18.jpg",
+     "about": "Gnawa Diffusion is an Algerian musical group formed in the early 1990s, recognized for their unique fusion of traditional Gnawa music with contemporary styles such as rock, reggae, and raï. The band incorporates traditio"
+    },
+    {
+     "id": "6946FF56-5F36-4860-BCAC-39EB414028CE",
+     "name": "Hamid El Kasri",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/e5c31ad78dbcad4c194200b63dee89fa.jpg",
+     "about": "Hamid El Kasri is a renowned Moroccan Gnawa musician and singer, celebrated for his deep, powerful voice and mastery of traditional Gnawa music. He is one of the most prominent figures in the Gnawa music scene, blending "
+    },
+    {
+     "id": "A25B10A5-6890-4333-8A86-2A65A6765AAE",
+     "name": "Amazigh Kateb",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d0f3d97d6c444d19aa8ce7038357c2a4.jpg",
+     "about": "Amazigh Kateb is an Algerian singer-songwriter and musician best known as the founder and former frontman of Gnawa Diffusion. He blends traditional North African (Gnawa and Berber) music with reggae, rock and world-music"
+    },
+    {
+     "id": "4F957CE4-488F-44E6-94B5-F2408E6321CE",
+     "name": "Majid Bekkas",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/85748a9f702e4c2785151b03a9f4b73b.jpg",
+     "about": "Majid Bekkas is a Moroccan musician known for his mastery of the guembri, a traditional Gnawa instrument, and his fusion of Gnawa music with jazz and blues. He is a vocalist and multi-instrumentalist who has gained inter"
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "tibetan",
+  "name": "Tibetan",
+  "epithet": "People of the High Plateau",
+  "region": "Tibetan Plateau",
+  "lon": 91,
+  "lat": 29.6,
+  "language": "Tibetan",
+  "vitality": "Vulnerable",
+  "practice": "Chant & thangka painting",
+  "expressions": [
+   "song",
+   "craft",
+   "story"
+  ],
+  "color": "#B37A4C",
+  "blurb": "People of the high plateau whose overtone chant and thangka hold a vast inner cosmology.",
+  "intro": "The Tibetans are the people of the world's highest plateau — a roof of grassland, glacier and thin bright air ringed by the Himalaya. For more than a thousand years their lives have turned around the dharma: the deep overtone chant of the Gyütö monks, the patient brilliance of thangka scroll-painting, the sand mandala built and swept away in a single breath, and the prayer flags and mani stones that set the wind itself to praying. Theirs is a culture that holds a vast inner cosmology lightly, in everyday hands.",
+  "respect": "Support Tibetan-led monasteries, thangka schools, language nests and cultural institutes; learn a little of the language and its etiquette; buy art and crafts directly from Tibetan makers; and back ethical, consent-based archives. On FirstCiv, every recording is made with the keepers' consent, ownership stays with the community of origin, and royalties flow back to them — while sacred or restricted material is never recorded.",
+  "firstciv_url": "https://firstciv.com/c/tibetan",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:tibetan",
+    "urn:tag:genre:qloo:tibetan_chant"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:tibetan_restaurant",
+    "urn:tag:cuisine:qloo:himalayan"
+   ],
+   "food_label": "Tibetan / Himalayan",
+   "anchors": [
+    {
+     "id": "03F7FEAC-EECD-4C18-860A-0C10E13B577C",
+     "name": "Gang Chenpa",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/56bcfe42abd642d2ae625ac0d879a69d.jpg",
+     "about": null
+    },
+    {
+     "id": "EE245928-667A-48E9-B990-095D09529626",
+     "name": "Techung",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/b4960b4467884472babfa49d5412768b.jpg",
+     "about": "Techung is a Burmese-American singer-songwriter and musician who blends traditional Burmese musical elements with contemporary folk and indie styles. He is known for his poignant lyrics and advocacy for Burmese culture a"
+    },
+    {
+     "id": "CD86D6D6-3315-4BC4-A7CA-EBC51CA9E0AE",
+     "name": "Gyume Tibetan Monks",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/bcd2da3277564ea89df810ca4c79677c.jpg",
+     "about": "Gyume Tibetan Monks are a group of Tibetan Buddhist monks renowned for their traditional chanting and spiritual music, which is deeply rooted in Tibetan Buddhist rituals and culture. Their performances often include harm"
+    },
+    {
+     "id": "B376536E-F95D-4731-AC9B-A2AF184464F0",
+     "name": "Jamyang Sakya",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/449f9ee50dd74e4b8ebaefce9204da4c.jpg",
+     "about": "Jamyang Sakya is a Tibetan singer and musician renowned for his performances of traditional Tibetan folk and spiritual music. His work often incorporates elements of Tibetan culture and religious themes, bringing the ric"
+    },
+    {
+     "id": "B8D4FC6C-BE01-40AE-B838-6D0F7919551A",
+     "name": "Lama Tashi",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/a506d08556c34b7eac37c8caa7fe15f9.jpg",
+     "about": "Lama Tashi is a Tibetan Buddhist monk renowned for his traditional chanting and spiritual music. He is recognized for his deep, resonant vocal style that embodies Tibetan Buddhist practices and meditation. Lama Tashi's m"
+    },
+    {
+     "id": "D9264408-50BD-4FA7-A361-8FF844C33FDA",
+     "name": "Gyuto Monks Tantric Choir",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/aa7ff33d4d6463028a8d36fbfda1e6bf.jpg",
+     "about": "The Gyuto Monks Tantric Choir is a monastic ensemble from the Gyuto tantric college of the Tibetan Buddhist tradition, noted for deep overtone (harmonic) chanting, ritual recitations of mantras, and resonant, drone-based"
+    },
+    {
+     "id": "DEB62373-5D55-44CB-B867-D90ACE888E36",
+     "name": "Kelsang Chukie Tethong",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/1dbb0852e86243fa97fd0b5de37a86b1.jpg",
+     "about": "Kelsang Chukie Tethong is a Tibetan singer renowned for her performances of traditional Tibetan songs and spiritual chanting. She is recognized for preserving and promoting Tibetan cultural heritage through her music, of"
+    },
+    {
+     "id": "7C1A6892-AD7F-4B02-B218-997C0D85767E",
+     "name": "Monks of the Dip Tse Chok Ling Monastery, Dharamsala",
+     "image": null,
+     "about": "The Monks of the Dip Tse Chok Ling Monastery in Dharamsala are a group of Tibetan Buddhist monks known for their traditional religious chants and spiritual music. Their performances often include deep, resonant chanting "
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "navajo",
+  "name": "Diné (Navajo)",
+  "epithet": "The People of the Glittering World",
+  "region": "SW United States",
+  "lon": -109,
+  "lat": 36,
+  "language": "Diné bizaad",
+  "vitality": "Vulnerable",
+  "practice": "Chantways & weaving",
+  "expressions": [
+   "song",
+   "craft",
+   "story",
+   "language"
+  ],
+  "color": "#C8A65D",
+  "blurb": "Weavers and singers of the Southwest whose chantways restore hózhó — beauty and balance.",
+  "intro": "The Diné — known to the world as the Navajo — are the largest Native nation in the United States, holding a homeland of high desert and red rock bounded by four sacred mountains. Their world turns on hózhó, the state of beauty, harmony and balance that the great Chantways are sung to restore. They are master weavers, whose rugs read like maps of the land, and silver-and-turquoise smiths whose work the world now wears. Life is lived around the hogan, the round earth-and-timber dwelling whose door faces the rising sun.",
+  "respect": "Support it on the People's own terms: buy weaving and silverwork directly from Diné artists rather than imitations, back Diné bizaad immersion schools and language programmes, and respect that ceremonies and sandpaintings are sacred and not for public sale.",
+  "firstciv_url": "https://firstciv.com/c/navajo",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:music:navajo"
+   ],
+   "music_scope": "culture",
+   "food": [
+    "urn:tag:category:place:native_american_restaurant"
+   ],
+   "food_label": "Native American (pan-Indigenous)",
+   "anchors": [
+    {
+     "id": "EB551D9D-713E-4476-BA8E-B9B653739032",
+     "name": "Navajo",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/163218f387d948aea40ddecd29b6e281.jpg",
+     "about": "Navajo is a hip hop artist recognized for his work in the rap genre. Details about his biography, vocal range, and collaborations are limited."
+    },
+    {
+     "id": "E3513776-4FDB-46CE-8100-C23E44B8B1B0",
+     "name": "Blackfire",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/ef72e8a7deee4f5391af9aaaa5ddc65f.jpg",
+     "about": "Blackfire is a Native American punk rock group from Flagstaff, Arizona, formed in 1989 by three Diné (Navajo) siblings. Their music fuses raw punk and alternative rock energy with traditional Navajo melodic and thematic "
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "mongolian",
+  "name": "Mongolian",
+  "epithet": "Nomads of the Eternal Blue Sky",
+  "region": "Mongolia",
+  "lon": 106,
+  "lat": 47,
+  "language": "Mongolian",
+  "vitality": "Stable",
+  "practice": "Long-song & morin khuur",
+  "expressions": [
+   "song",
+   "story",
+   "craft"
+  ],
+  "color": "#8A623C",
+  "blurb": "Nomads of the steppe whose urtiin duu stretches a single line across the whole horizon.",
+  "intro": "The Mongolians are the nomads of the great steppe, herders who for three thousand years have followed their horses, sheep and camels across the grasslands beneath Tengri, the eternal blue sky. From the ger they read weather and pasture; in the saddle they cross a horizon that seems to have no edge. Their voices answer that vastness — urtiin duu, the long-song, stretches a single line of melody clear across the plain, the morin khuur carries the gait of a galloping horse, and khöömii lets one throat sound two notes at once. Each summer Naadam gathers the 'three manly games' of wrestling, archery and horse-racing.",
+  "respect": "Support the herding communities and musicians who keep the traditions living — learn the long-song, the morin khuur or the vertical Mongol bichig script through Mongolian-led schools and ensembles, and back climate and pasture programmes, since the worsening dzud winters threaten the nomadic way of life. On FirstCiv you can contribute or collect consented recordings, with royalties flowing back to the community of origin.",
+  "firstciv_url": "https://firstciv.com/c/mongolian",
+  "qloo": {
+   "music": [
+    "urn:tag:genre:qloo:mongolian_folk",
+    "urn:tag:genre:music:morin_khuur"
+   ],
+   "music_scope": "culture",
+   "food": [],
+   "food_label": null,
+   "anchors": [
+    {
+     "id": "5CE525B6-B2DB-4569-9670-55C4626E51C6",
+     "name": "Egschiglen",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/beba303a10744f42b9d6b83106dbac60.jpg",
+     "about": "Egschiglen is a Mongolian folk music ensemble known for their authentic performances of traditional Mongolian music, incorporating throat singing, traditional instruments, and contemporary elements to create a unique fus"
+    },
+    {
+     "id": "F1E6A87E-1552-4FB4-A0E4-8E9865626ED4",
+     "name": "Hanggai",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/f003d5f145ac47c088ca4f85deacbc98.jpg",
+     "about": "Hanggai is a Mongolian folk rock band that combines traditional Mongolian music, including throat singing and traditional instruments, with contemporary rock music. The band is known for its unique fusion of cultural her"
+    },
+    {
+     "id": "3579BCA5-C7BB-46D6-B4CC-E3854F419F54",
+     "name": "Хөсөгтөн хамтлаг",
+     "image": null,
+     "about": "Хөсөгтөн хамтлаг (Khosogton) is a Mongolian folk rock band known for blending traditional Mongolian musical elements with contemporary rock music. The band incorporates traditional instruments and melodies, creating a un"
+    },
+    {
+     "id": "A39C124B-0C29-4C19-A755-F603FBB4960E",
+     "name": "杭盖",
+     "image": null,
+     "about": "杭盖 (Hanggai) is a Mongolian folk rock band known for blending traditional Mongolian music, including throat singing and traditional instruments, with modern rock influences. They incorporate traditional Mongolian instrum"
+    },
+    {
+     "id": "163F3463-B6B5-44BE-89AE-4736AB388D5C",
+     "name": "Dangaa Khosbayar",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/81c8eb76bfdc4d58affdb4de31cc211d.jpg",
+     "about": "Dangaa Khosbayar is a Mongolian folk singer recognized for his contributions to traditional Mongolian music and its contemporary interpretations. He is known for his vocal performances that often incorporate traditional "
+    },
+    {
+     "id": "25384ABA-6DEE-4878-AC47-42B886B261E4",
+     "name": "Hanggai band| 杭盖乐队",
+     "image": null,
+     "about": "Hanggai Band is a Mongolian folk rock group known for combining traditional Mongolian music, including throat singing and traditional instruments, with contemporary rock music. They incorporate Mongolian cultural themes "
+    },
+    {
+     "id": "83A1381A-ADE5-4FE3-967D-8D4145C3F794",
+     "name": "Urna Chahar-Tugchi",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/04acf6622e4445f286c88b81b6d490a5.jpg",
+     "about": "Urna Chahar-Tugchi is a Mongolian folk and world music singer renowned for her mastery of traditional Mongolian throat singing and her evocative vocal style. She blends traditional Mongolian musical elements with contemp"
+    },
+    {
+     "id": "9A776880-A71B-435D-9DAC-FA4F4D9E4C38",
+     "name": "HAYA",
+     "image": "https://lastfm.freetls.fastly.net/i/u/770x0/77c1167339df47c6c759b1ebd2d04aa1.jpg",
+     "about": "Haya is a Mongolian folk band known for blending traditional Mongolian music with contemporary influences, featuring traditional instruments and throat singing."
+    }
+   ],
+   "built_at": "2026-10-07"
+  }
+ },
+ {
+  "id": "yanomami",
+  "name": "Yanomami",
+  "epithet": "Forest People of the Falling Sky",
+  "region": "Amazon · Brazil",
+  "lon": -64,
+  "lat": 2,
+  "language": "Yanomami",
+  "vitality": "Threatened",
+  "practice": "Shamanic chant",
+  "expressions": [
+   "song",
+   "story"
+  ],
+  "color": "#6B8A7A",
+  "blurb": "Forest people of the Amazon whose shamanic songs name every spirit of the canopy.",
+  "intro": "The Yanomami are one of the largest relatively isolated forest peoples of the Amazon, living in some hundreds of communities scattered across the highlands where Brazil meets Venezuela. They dwell in the shabono — a great ring of palm-thatched roof enclosing a single communal clearing — and read the forest as a library of plants, animals and weather. Their world is held together by the xapiri, the luminous spirit-beings called down by shamans who inhale the yãkoana snuff, and renewed at the reahu, the funerary feast that lays the dead to rest and binds allies together. As the shaman and author Davi Kopenawa warns, the sky itself could fall if the forest and its keepers are not protected — and today illegal gold-mining brings mercury, disease and violence to their land.",
+  "respect": null,
+  "firstciv_url": "https://firstciv.com/c/yanomami",
+  "qloo": {
+   "music": [],
+   "music_scope": null,
+   "food": [],
+   "food_label": null,
+   "anchors": [],
+   "built_at": "2026-10-07"
+  }
+ }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "firstciv-qloo-agent",
+  "version": "1.0.0",
+  "description": "FirstCiv Culture Agent: Qloo taste-graph bridges to living cultural heritage",
+  "main": "src/server.mjs",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "dev": "node --env-file=.env src/server.mjs",
+    "build:cultures": "node scripts/extract-firstciv.mjs ../firstciv-next/lib/data.js && node --env-file=.env scripts/build-profiles.mjs",
+    "cli": "node --env-file=.env scripts/cli.mjs"
+  },
+  "author": "FirstCiv",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "@qloo/qloo-harness": "^0.1.26"
+  },
+  "engines": {
+    "node": ">=22.19"
+  },
+  "private": true
+}

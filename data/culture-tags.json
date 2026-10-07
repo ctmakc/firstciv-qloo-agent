@@ -1,0 +1,215 @@
+{
+ "yoruba": {
+  "music": [
+   "urn:tag:genre:music:yoruba",
+   "urn:tag:genre:music:juju",
+   "urn:tag:genre:music:apala"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:west_african_restaurant",
+   "urn:tag:cuisine:qloo:nigerian"
+  ],
+  "food_label": "West African / Nigerian"
+ },
+ "hawaiian": {
+  "music": [
+   "urn:tag:genre:music:hawaiian",
+   "urn:tag:genre:music:slack_key_guitar"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:hawaiian_restaurant"
+  ],
+  "food_label": "Hawaiian"
+ },
+ "zulu": {
+  "music": [
+   "urn:tag:genre:music:zulu",
+   "urn:tag:genre:qloo:isicathamiya",
+   "urn:tag:genre:qloo:maskandi"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:south_african_restaurant"
+  ],
+  "food_label": "South African (regional)"
+ },
+ "mapuche": {
+  "music": [
+   "urn:tag:genre:music:mapuche",
+   "urn:tag:genre:qloo:chilean_folk"
+  ],
+  "music_scope": "culture + regional",
+  "food": [
+   "urn:tag:category:place:chilean_restaurant"
+  ],
+  "food_label": "Chilean (regional)"
+ },
+ "balinese": {
+  "music": [
+   "urn:tag:genre:music:balinese",
+   "urn:tag:genre:music:gamelan"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:indonesian_restaurant"
+  ],
+  "food_label": "Indonesian (regional)"
+ },
+ "maya": {
+  "music": [],
+  "music_scope": null,
+  "food": [
+   "urn:tag:category:place:guatemalan_restaurant",
+   "urn:tag:category:place:yucatan_restaurant"
+  ],
+  "food_label": "Guatemalan / Yucatecan (regional)"
+ },
+ "sami": {
+  "music": [
+   "urn:tag:genre:music:joik",
+   "urn:tag:genre:music:sami"
+  ],
+  "music_scope": "culture",
+  "food": [],
+  "food_label": null
+ },
+ "maori": {
+  "music": [
+   "urn:tag:theme:qloo:maori_culture"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:new_zealand_restaurant"
+  ],
+  "food_label": "New Zealand (regional)"
+ },
+ "maasai": {
+  "music": [
+   "urn:tag:genre:music:kenyan",
+   "urn:tag:genre:music:benga"
+  ],
+  "music_scope": "regional",
+  "food": [
+   "urn:tag:category:place:east_african_restaurant"
+  ],
+  "food_label": "East African (regional)"
+ },
+ "tuvan": {
+  "music": [
+   "urn:tag:genre:music:tuvan",
+   "urn:tag:genre:music:tuva"
+  ],
+  "music_scope": "culture",
+  "food": [],
+  "food_label": null
+ },
+ "ainu": {
+  "music": [],
+  "music_scope": null,
+  "food": [],
+  "food_label": null
+ },
+ "quechua": {
+  "music": [
+   "urn:tag:genre:music:andean_music",
+   "urn:tag:genre:music:huayno",
+   "urn:tag:genre:music:andean_folk"
+  ],
+  "music_scope": "culture + regional",
+  "food": [
+   "urn:tag:category:place:peruvian_restaurant"
+  ],
+  "food_label": "Peruvian (regional)"
+ },
+ "tuareg": {
+  "music": [
+   "urn:tag:genre:music:tuareg",
+   "urn:tag:genre:music:desert_blues"
+  ],
+  "music_scope": "culture",
+  "food": [],
+  "food_label": null
+ },
+ "inuit": {
+  "music": [
+   "urn:tag:genre:music:inuit_throat_singing",
+   "urn:tag:genre:music:inuit"
+  ],
+  "music_scope": "culture",
+  "food": [],
+  "food_label": null
+ },
+ "aboriginal": {
+  "music": [
+   "urn:tag:genre:music:australian_aboriginal",
+   "urn:tag:genre:music:indigenous_australian",
+   "urn:tag:genre:music:didgeridoo"
+  ],
+  "music_scope": "culture",
+  "food": [],
+  "food_label": null
+ },
+ "hmong": {
+  "music": [],
+  "music_scope": null,
+  "food": [
+   "urn:tag:category:place:laotian_restaurant"
+  ],
+  "food_label": "Laotian (regional)"
+ },
+ "san": {
+  "music": [],
+  "music_scope": null,
+  "food": [],
+  "food_label": null
+ },
+ "gnawa": {
+  "music": [
+   "urn:tag:genre:music:gnawa"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:moroccan_restaurant"
+  ],
+  "food_label": "Moroccan"
+ },
+ "tibetan": {
+  "music": [
+   "urn:tag:genre:music:tibetan",
+   "urn:tag:genre:qloo:tibetan_chant"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:tibetan_restaurant",
+   "urn:tag:cuisine:qloo:himalayan"
+  ],
+  "food_label": "Tibetan / Himalayan"
+ },
+ "navajo": {
+  "music": [
+   "urn:tag:genre:music:navajo"
+  ],
+  "music_scope": "culture",
+  "food": [
+   "urn:tag:category:place:native_american_restaurant"
+  ],
+  "food_label": "Native American (pan-Indigenous)"
+ },
+ "mongolian": {
+  "music": [
+   "urn:tag:genre:qloo:mongolian_folk",
+   "urn:tag:genre:music:morin_khuur"
+  ],
+  "music_scope": "culture",
+  "food": [],
+  "food_label": null
+ },
+ "yanomami": {
+  "music": [],
+  "music_scope": null,
+  "food": [],
+  "food_label": null
+ }
+}

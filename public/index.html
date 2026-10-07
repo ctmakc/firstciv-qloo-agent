@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FirstCiv Culture Agent</title>
+<meta name="description" content="An agent that uses Qloo's taste graph to connect what you already love with 22 living cultures: music, food, places, and how to show up respectfully.">
+<meta name="robots" content="noindex">
+<meta property="og:title" content="FirstCiv Culture Agent">
+<meta property="og:description" content="Start from what you already love. Qloo-powered bridges to living cultural heritage.">
+<meta property="og:image" content="/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Red+Hat+Text:ital,wght@0,400;0,500;0,600;1,400&family=Spline+Sans+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<header class="top">
+  <a class="mark" href="https://firstciv.com" target="_blank" rel="noopener">FirstCiv</a>
+  <span class="mark-sub">Culture Agent</span>
+  <nav class="modes" role="tablist" aria-label="Mode">
+    <button role="tab" aria-selected="true" data-mode="explorer">For me</button>
+    <button role="tab" aria-selected="false" data-mode="organizer">For my event</button>
+  </nav>
+  <span class="powered">taste graph by <b>Qloo</b></span>
+</header>
+
+<main class="layout">
+  <section class="left" aria-label="Ask the agent">
+    <div class="intro">
+      <h1 data-hero><span data-mode-text="explorer">Start from what you already love.</span><span data-mode-text="organizer" hidden>Plan from what your audience already loves.</span></h1>
+      <p class="lede" data-mode-text="explorer">Name a few favourites. The agent asks Qloo's taste graph which of FirstCiv's living cultures sit closest to them, then finds music to start with, food in your city, and how to engage on the community's own terms.</p>
+      <p class="lede" data-mode-text="organizer" hidden>Describe who comes to your events and what they already love. The agent ranks living cultures and artists for that audience, finds food partners and the part of town where the taste already lives, and adds a consent checklist.</p>
+    </div>
+
+    <form id="ask" autocomplete="off">
+      <fieldset class="tastes">
+        <legend><span data-mode-text="explorer">Your favourites</span><span data-mode-text="organizer" hidden>Your audience's favourites</span> <small>artists, films, shows, books, places</small></legend>
+        <ol id="taste-list"></ol>
+        <button type="button" class="ghost" id="add-taste">+ another favourite</button>
+        <p class="examples">Try:
+          <button type="button" class="chip" data-example="0">Bob Marley · Spirited Away · Bon Iver</button>
+          <button type="button" class="chip" data-example="1">Billie Eilish · Dune · Studio Ghibli fan</button>
+          <button type="button" class="chip" data-example="2">Arkells · Schitt's Creek · Hozier</button>
+        </p>
+      </fieldset>
+
+      <div class="row2">
+        <label>City
+          <input name="city" value="Ottawa, Canada" maxlength="60" required>
+        </label>
+        <label data-mode-text="organizer" hidden>Audience
+          <select name="demographic">
+            <option value="">Any age</option>
+            <option value="gen z">Gen Z (24 and under)</option>
+            <option value="millennials" selected>Millennials (30–44)</option>
+            <option value="young women">Young women</option>
+            <option value="young men">Young men</option>
+            <option value="seniors">Seniors (55+)</option>
+          </select>
+        </label>
+      </div>
+      <label data-mode-text="organizer" hidden>What are you planning? <small>optional</small>
+        <input name="note" maxlength="300" placeholder="A free summer evening in a park, about 300 people">
+      </label>
+      <p class="privacy">Only tastes go to Qloo. No names, emails or accounts; results describe groups, never you.</p>
+      <button class="go" type="submit"><span>Find the bridges</span></button>
+    </form>
+
+    <section class="notes" aria-live="polite" aria-label="Agent field notes">
+      <h2 class="notes-h">Field notes <span id="notes-meta"></span></h2>
+      <ol id="log"><li class="idle">The agent's plan and every Qloo call will appear here, with the endpoint it hit.</li></ol>
+    </section>
+  </section>
+
+  <section class="right" aria-label="Results">
+    <figure class="board" id="board" aria-label="String figure: your favourites connected to living cultures">
+      <svg id="figure" viewBox="0 0 800 520" preserveAspectRatio="xMidYMid meet" role="img"></svg>
+      <figcaption id="board-cap">Twenty-two living cultures from the FirstCiv archive. Threads appear as Qloo answers.</figcaption>
+    </figure>
+
+    <article class="answer" id="answer" hidden>
+      <h2>The agent's read</h2>
+      <div id="answer-text"></div>
+      <p class="by" id="answer-by"></p>
+    </article>
+
+    <ol class="bridges" id="bridges"></ol>
+
+    <section class="mapwrap" id="mapwrap" hidden>
+      <h2 id="map-h">Where the taste already lives</h2>
+      <div id="map"></div>
+      <p class="fine" id="map-cap"></p>
+    </section>
+
+    <section class="more" id="more" hidden></section>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>Built on <a href="https://firstciv.com" target="_blank" rel="noopener">FirstCiv</a>, a consent-first archive of living cultural heritage, and <a href="https://www.qloo.com" target="_blank" rel="noopener">Qloo</a>'s taste graph via the official <code>qloo mcp</code> server. Qloo affinities describe aggregate patterns across groups; they are evidence for a starting point, not a verdict about any person or community. Regional cuisines are labelled as such: a national cuisine is not an Indigenous people's own food.</p>
+  <p><a href="https://github.com/ctmakc/firstciv-qloo-agent" target="_blank" rel="noopener">Source code</a> · <a href="/api/health" target="_blank" rel="noopener">Health</a></p>
+</footer>
+
+<template id="tpl-taste">
+  <li class="taste">
+    <select aria-label="Type">
+      <option value="artist">Artist</option>
+      <option value="movie">Film</option>
+      <option value="tv_show">TV show</option>
+      <option value="book">Book</option>
+      <option value="place">Place</option>
+      <option value="videogame">Game</option>
+      <option value="podcast">Podcast</option>
+      <option value="brand">Brand</option>
+    </select>
+    <input aria-label="Name" maxlength="80" placeholder="e.g. Bob Marley">
+    <button type="button" class="x" aria-label="Remove">×</button>
+  </li>
+</template>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin defer></script>
+<script src="/app.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+.env
+.git
+node_modules
+data/cache
+*.log
+docs/screenshots
